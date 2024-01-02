@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#container{
+    background: url(./images/website-background-templates.png) no-repeat ;
+    background-size: cover;
+    height: 100vh;
+}
+
+#header{
+    background: black;
+    color: white;
+    text-align: center;
+    height:15vh;
+    
+}
+#header h1{
+    padding-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+#header a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    font-size: larger;
+}
+main{
+    height: 82vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+main a{
+    margin: 0 60px;
+}
