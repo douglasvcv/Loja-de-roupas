@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background: url(./images/website-background-templates.png) no-repeat;
+    background: url(../images/website-background-templates.png) no-repeat;
     background-size: cover;
 }
 p{
